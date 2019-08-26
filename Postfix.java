@@ -41,7 +41,7 @@ class Postfix
 	
 	public static void main(String arg[])
 	{
-		String s="53+2/43*-";
+		String s="53+2/44*-";
 		System.out.println("Postfix Evaluation:- "+evaluatePostfix(s));
 	}
 }
